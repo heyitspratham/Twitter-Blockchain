@@ -9,12 +9,12 @@ export const userSchema = {
             type: 'string'
         },
         {
-            name: 'WalletAddress',
+            name: 'walletAddress',
             title: 'Wallet Address',
             type: 'string'
         },
         {
-            name: 'isProfileImageNFT',
+            name: 'isProfileImageNft',
             title: 'Is Profile Image NFT',
             type: 'boolean'
         },
